@@ -10,6 +10,7 @@ module.exports = {
     title: "Full Stack Bootcamp!",
     author: "Jayanth Boddu",
   },
+  pathPrefix: "/gatsby-bootcamp",
 
   plugins: [
     "gatsby-plugin-react-helmet",
